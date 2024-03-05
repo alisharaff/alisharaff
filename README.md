@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Sharaf</h1>
 <h3 align="center">Flutter developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m **Flutter develpoer**
 
 - 💬 Ask me about **Flutter**
 
