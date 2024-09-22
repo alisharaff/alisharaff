@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://alisharaf.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/204294/portfolio.svg" alt="ali64754379" height="30" width="40" /></a>
 <a href="https://twitter.com/ali64754379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali64754379" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ali-sharaff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-sharaf-33602b214/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005074891996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005074891996" height="30" width="40" /></a>
