@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **alish3raf@gmail.com**
 
+- 🔐 I have a total of ![Private Repos](https://img.shields.io/badge/private%20repos-40-blue) private repositories out of 71 repositories.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://alisharaf.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/204294/portfolio.svg" alt="ali64754379" height="30" width="40" /></a>
