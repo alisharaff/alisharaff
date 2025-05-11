@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alish3raf@gmail.com**
 
-- 🔐 I have a total of ![Private Repos](https://img.shields.io/badge/private%20repos-39-blue) private repositories out of 73 repositories.
+- 🔐 I have a total of ![Private Repos](https://img.shields.io/badge/private%20repos-44-blue) private repositories out of 79 repositories.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
